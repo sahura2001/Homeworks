@@ -1,0 +1,10 @@
+Q1. (review score comparison) :         0/20
+Q2. (visualization and analysis) :      0/10
+Q3. (clustering) :                      0/30
+Q4. (cluster visualization) :           0/15
+Q5. (outlier detection) :               0/15
+Q6. (analysis) :                        0/10
+
+Late Penalty (if any) :
+
+Total :                                 0/100
